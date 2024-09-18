@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Practica5_front.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Practica5_front.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\datatable\\all.css",
+      "PackagePath": "staticwebassets\\css\\datatable\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\datatable\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\datatable\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\datatable\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatable\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\datatable\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatable\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\datatable\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatable\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\estilos.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\Sorting icons.psd",
+      "PackagePath": "staticwebassets\\css\\images\\Sorting icons.psd"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\css\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\css\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\css\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\css\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\css\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\css\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\css\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\all.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\datatable\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\empleados.js",
+      "PackagePath": "staticwebassets\\js\\empleados.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\entidadesFederativas.js",
+      "PackagePath": "staticwebassets\\js\\entidadesFederativas.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\jquery.dynamicTable-1.0.0.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dynamicTable-1.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Practica5_front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Practica5_front.props",
+      "PackagePath": "build\\Practica5_front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Practica5_front.props",
+      "PackagePath": "buildMultiTargeting\\Practica5_front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Practica5_front.props",
+      "PackagePath": "buildTransitive\\Practica5_front.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

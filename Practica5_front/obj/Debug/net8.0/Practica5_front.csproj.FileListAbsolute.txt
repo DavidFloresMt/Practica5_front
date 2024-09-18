@@ -1,0 +1,64 @@
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\appsettings.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Content\fontawesome\metadata\icons.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Content\fontawesome\metadata\shims.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.staticwebassets.runtime.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.exe
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.deps.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.runtimeconfig.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.pdb
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.AssemblyInfoInputs.cache
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.AssemblyInfo.cs
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.csproj.CoreCompileInputs.cache
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.RazorAssemblyInfo.cache
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.RazorAssemblyInfo.cs
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.Practica5_front.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica5_front.props
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica5_front.props
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica5_front.props
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\scopedcss\bundle\Practica5_front.styles.css
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\scopedcss\projectbundle\Practica5_front.bundle.scp.css
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\refint\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.pdb
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.genruntimeconfig.cache
+C:\Users\ElDeividChamp\Desktop\Nueva carpeta\Practica5_front\Practica5_front\obj\Debug\net8.0\ref\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\appsettings.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Content\fontawesome\metadata\icons.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Content\fontawesome\metadata\shims.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.staticwebassets.runtime.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.exe
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.deps.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.runtimeconfig.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\bin\Debug\net8.0\Practica5_front.pdb
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.AssemblyInfoInputs.cache
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.AssemblyInfo.cs
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.csproj.CoreCompileInputs.cache
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.RazorAssemblyInfo.cache
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.RazorAssemblyInfo.cs
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.Practica5_front.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica5_front.props
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica5_front.props
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica5_front.props
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\scopedcss\bundle\Practica5_front.styles.css
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\scopedcss\projectbundle\Practica5_front.bundle.scp.css
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\refint\Practica5_front.dll
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.pdb
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\Practica5_front.genruntimeconfig.cache
+C:\Users\ElDeividChamp\Desktop\Ejercicios\Practica5_front\Practica5_front\obj\Debug\net8.0\ref\Practica5_front.dll

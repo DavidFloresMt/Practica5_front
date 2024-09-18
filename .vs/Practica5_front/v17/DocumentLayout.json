@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|c:\\users\\eldeividchamp\\desktop\\ejercicios\\practica5_front\\practica5_front\\wwwroot\\js\\empleados.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|solutionrelative:practica5_front\\wwwroot\\js\\empleados.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|c:\\users\\eldeividchamp\\desktop\\ejercicios\\practica5_front\\practica5_front\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|solutionrelative:practica5_front\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|c:\\users\\eldeividchamp\\desktop\\ejercicios\\practica5_front\\practica5_front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|solutionrelative:practica5_front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|c:\\users\\eldeividchamp\\desktop\\ejercicios\\practica5_front\\practica5_front\\wwwroot\\js\\entidadesfederativas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|solutionrelative:practica5_front\\wwwroot\\js\\entidadesfederativas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|c:\\users\\eldeividchamp\\desktop\\ejercicios\\practica5_front\\practica5_front\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|solutionrelative:practica5_front\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|c:\\users\\eldeividchamp\\desktop\\ejercicios\\practica5_front\\practica5_front\\wwwroot\\js\\datatable\\jquery.datatables.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08B78C6F-725E-40CC-B731-287224395545}|Practica5_front\\Practica5_front.csproj|solutionrelative:practica5_front\\wwwroot\\js\\datatable\\jquery.datatables.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\Program.cs",
+              "RelativeDocumentMoniker": "Practica5_front\\Program.cs",
+              "ToolTip": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\Program.cs",
+              "RelativeToolTip": "Practica5_front\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:14:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "entidadesFederativas.js",
+              "DocumentMoniker": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\entidadesFederativas.js",
+              "RelativeDocumentMoniker": "Practica5_front\\wwwroot\\js\\entidadesFederativas.js",
+              "ToolTip": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\entidadesFederativas.js",
+              "RelativeToolTip": "Practica5_front\\wwwroot\\js\\entidadesFederativas.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-17T17:19:51.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.dataTables.min.js",
+              "DocumentMoniker": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\jquery.dataTables.min.js",
+              "RelativeDocumentMoniker": "Practica5_front\\wwwroot\\js\\datatable\\jquery.dataTables.min.js",
+              "ToolTip": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\datatable\\jquery.dataTables.min.js",
+              "RelativeToolTip": "Practica5_front\\wwwroot\\js\\datatable\\jquery.dataTables.min.js",
+              "ViewState": "AQIAAJcAAAAAAAAAAAA9wKIAAAAAAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-17T13:41:55.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empleados.js",
+              "DocumentMoniker": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\empleados.js",
+              "RelativeDocumentMoniker": "Practica5_front\\wwwroot\\js\\empleados.js",
+              "ToolTip": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\wwwroot\\js\\empleados.js",
+              "RelativeToolTip": "Practica5_front\\wwwroot\\js\\empleados.js",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAJwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-17T04:13:02.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica5_front\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica5_front\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T04:10:53.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Practica5_front\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ElDeividChamp\\Desktop\\Ejercicios\\Practica5_front\\Practica5_front\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Practica5_front\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T04:04:12.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

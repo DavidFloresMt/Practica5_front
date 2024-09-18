@@ -1,0 +1,76 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Registro Empleados";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="row m-4">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                Registro de empleados
+            </div>
+            <div class="card-body">
+                <table id="tblEmpleados" class="table table-responsive dtr-modal-display" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Nómina</th>
+                            <th>Nombre</th>
+                            <th>Apellido Paterno</th>
+                            <th>Apellido Materno</th>
+                            <th>Estado</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="formModalEmpleado" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Empleado</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <input type="hidden" id="hdnIdEmpleado" />
+                        <div class="form-group">
+                            <label for="txtNombre">Nombre:</label>
+                            <input type="text" class="form-control" id="txtNombre">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtAPaterno">Apellido Paterno:</label>
+                            <input type="text" class="form-control" id="txtAPaterno">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtAMaterno">Apellido Materno:</label>
+                            <input type="text" class="form-control" id="txtAMaterno">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="cboxEFederativa">Estado:</label>
+                            <select id="cboxEFederativa" name="cboxEFederativa" class="form-control my-2">
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" onclick="cerrarModal()">Cerrar</button>
+                <button type="button" class="btn btn-primary" onclick="Guardar()">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/empleados.js"></script>
+    <script src="~/js/entidadesFederativas.js"></script>
+}
